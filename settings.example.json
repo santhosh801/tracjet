@@ -1,0 +1,20 @@
+{
+  "theme": "Dark",
+  "openai_api_key": "",
+  "use_openai_drafting": false,
+  "gmail_email": "",
+  "gmail_app_password": "",
+  "resume_path": "",
+  "signature": "",
+  "max_daily_emails": 50,
+  "delay_between_emails": 3,
+  "retry_count": 3,
+  "auto_approve_soft_review": false,
+  "active_candidate_id": null,
+  "send_filters": {
+    "cities": [],
+    "exp_mode": "All Experience",
+    "exp_min": null,
+    "exp_max": null
+  }
+}
