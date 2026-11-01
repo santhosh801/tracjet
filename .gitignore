@@ -1,0 +1,19 @@
+# Private data — never commit
+settings.json
+*.db
+*.db.bak*
+*.db-journal
+candidate_files/
+credentials.json
+token*.json
+*.pickle
+.env
+
+# Build / environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
