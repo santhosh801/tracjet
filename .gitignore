@@ -1,4 +1,4 @@
-# Private data — never commit
+# Private data — never commit (API key, Gmail password, recruiter/candidate data, resumes)
 settings.json
 *.db
 *.db.bak*
@@ -9,9 +9,7 @@ token*.json
 *.pickle
 .env
 
-# Build / environment
-.venv/
-venv/
+# Generated
 __pycache__/
 *.pyc
 build/
